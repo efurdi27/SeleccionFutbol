@@ -1,4 +1,4 @@
-package polimorfismo.ejemplos;
+package com.anzen.polimorfismo;
 
 import java.util.ArrayList;
 

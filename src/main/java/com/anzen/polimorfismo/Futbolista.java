@@ -1,4 +1,4 @@
-package polimorfismo.ejemplos;
+package com.anzen.polimorfismo;
 
 public class Futbolista extends SeleccionFutbol {
 	private int dorsal;

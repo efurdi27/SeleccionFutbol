@@ -1,4 +1,4 @@
-package polimorfismo.ejemplos;
+package com.anzen.polimorfismo;
 
 public abstract class SeleccionFutbol {
 	private int id;
